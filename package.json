@@ -1,0 +1,26 @@
+{
+  "name": "acquisitions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elparchetipk/acquisitions.git"
+  },
+  "keywords": [],
+  "author": "EPTI Dev Team",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/elparchetipk/acquisitions/issues"
+  },
+  "homepage": "https://github.com/elparchetipk/acquisitions#readme",
+  "packageManager": "pnpm@10.18.3",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0"
+  }
+}
